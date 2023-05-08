@@ -1,0 +1,3 @@
+there are two different hash table 
+for compression HashTable.cpp
+for decompression HashTableD.cpp
